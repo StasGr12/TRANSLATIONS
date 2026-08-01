@@ -132,7 +132,7 @@
         " profile activated": " профиль активирован",
         "...": "..."
       };
-    } elif (LANG === 'pl') {
+    } else if (LANG === 'pl') {
       FRAG = {
         "Analyzing user apps... (": "Analizowanie aplikacji użytkownika (",
         "Checking risky apps... (": "Sprawdzanie ryzykownych aplikacji... (",
