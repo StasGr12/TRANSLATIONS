@@ -132,6 +132,22 @@
         " profile activated": " профиль активирован",
         "...": "..."
       };
+    } elif (LANG === 'pl') {
+      FRAG = {
+        "Analyzing user apps... (": "Analizowanie aplikacji użytkownika (",
+        "Checking risky apps... (": "Sprawdzanie ryzykownych aplikacji... (",
+        " installed packages, ": " zainstalowane pakiety， ",
+        "Found ": "Znaleziono ",
+        " user apps": " aplikacje użytkownika",
+        "Active: ": " Aktywne：",
+        "Loaded: ": " Załadowane：",
+        "Mapped ": "Zmappowane ",
+        "Activating ": "Aktywowanie",
+        "Applying ": "Zastosowywanie",
+        " profile...": " profilu..",
+        " profile activated": " profil aktywowany",
+        "...": "..."
+      };
     }
 
     function tr(s){
