@@ -275,7 +275,7 @@ window.i18nDict.pl = {
   "Spoofed to Enforcing": "Oszukano status na Egzekwowanie",
   "All changes will be applied immediately": "Wszystkie zmiany zostaną zastosowane natychmiastowo",
   "These will be applied till reboot": "Te zmiany pozostaną zastosowane do ponownego restartu urządzenia",
-  "Reboot to apply changes": Uruchom Ponownie aby zastosować zmniany",
+  "Reboot to apply changes": "Uruchom Ponownie aby zastosować zmniany",
   "Keybox has been updated ✅": "Keybox został zaktualizowany ✅",
   "These requires Reboot / Action": "Te zmiany potrzebują Ponownego Uruchomienia Urządzenia / Wykonania Akcji",
   "Good Luck old friend 🌚": "Powodzenia stary przyjacielu 🌚",
