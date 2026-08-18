@@ -8,7 +8,7 @@ window.i18nDict.pl = {
   "Community & Support": "Społeczność i Wsparcie",
   "Integrity:": "Integralność Play:",
   "Profile:": "Profil:",
-  "Props:": "Właściwości",
+  "Props:": "Właściwości:",
   "SELinux:": "SELinux:",
   "Config:": "Konfiguracja:",
   "Expiry:": "Wygaśnięcie keybox:",
@@ -667,9 +667,9 @@ window.i18nDict.pl = {
   "If you're using magisk, make sure to disable magisk's built-in Zygisk & add your banking apps into denylist. GMS & Play Services process will be added automatically via Integrity Box. Also hide your magisk app by changing it's name from magisk settings..": "Jeśli używasz magisk'a, upewnij się żę wyłączysz wbudowanego zygisk'a w magisku i dodasz swoje aplikacje bankowe do listy odrzuceń(denylist). Processy GMS oraz Usługi Google Play zostaną automatycznie dodane przez Integrity Box. Ukryj także magisk'a zmieniając jego nazwę w ustawieniach magisk'a..",
 
   /* Integrity Questions */
-  "Why is Strong Play Integrity failing?": "#",
-  "Make sure you have installed the recommended modules. Keep in mind that not all ROMs can pass Play Integrity, no matter you've disabled ROM's inbuilt GMS spoofing or updated keybox/fingerprint. You can also try downgrading your playstore version to v40.0.13-23": "#",
-  "Play Integrity fails when bootloader is unlocked (not spoofed) or hardware keybox isn't valid. Check for conflicting modules as well. Sometimes using too many modules/lsposed apps exposes root environment.": "#",
+  "Why is Strong Play Integrity failing?": "Dlaczego nadal Silna Integralność Play nie działa?",
+  "Make sure you have installed the recommended modules. Keep in mind that not all ROMs can pass Play Integrity, no matter you've disabled ROM's inbuilt GMS spoofing or updated keybox/fingerprint. You can also try downgrading your playstore version to v40.0.13-23": "Upewnij się że urzywasz rekomendowanych modułów. Miej w głowie że nie każdy rom może przejść test Integralności Play, nieważne czy wyłączyłeś wbudowany Spoof ROMa lub czy zaktualizowałeś keybox. Możesz spróbować obniżyć wersję Sklepu Play do wersji v40.0.13-23.",
+  "Play Integrity fails when bootloader is unlocked (not spoofed) or hardware keybox isn't valid. Check for conflicting modules as well. Sometimes using too many modules/lsposed apps exposes root environment.": "Test Integralności Play może zawieść gdy bootloader jest odblokowany (nie spoofowany) or keybox hardwaru nie jest prawidłowy. Sprawdź także kofliktujące moduły z Integrity Box i jego zalażnościami. Czasami za dużo modułów / aplikacji lsposted może powodować wykrycie root'a.",
   "Why do some banking apps still not working even if Play Integrity shows Strong?": "#",
   "Because many banking apps implement their own root/environment detection, beyond Play Integrity.": "#",
   "They can check system props (like ro.debuggable), existence of root binaries, SELinux status, unusual filesystem traces, custom kernel or recovery markers, debug build‑flags, and flagged apps etc.": "#",
