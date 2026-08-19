@@ -141,7 +141,7 @@
         " user apps": " aplikacje użytkownika",
         "Active: ": " Aktywne：",
         "Loaded: ": " Załadowane：",
-        "Mapped ": "Zmappowane ",
+        "Mapped ": "Zmapowane ",
         "Activating ": "Aktywowanie",
         "Applying ": "Zastosowywanie",
         " profile...": " profilu..",
