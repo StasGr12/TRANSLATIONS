@@ -487,7 +487,7 @@ window.i18nDict.pl = {
   "Security Patch 2026": "Patch Zapezpieczeń z 2026r.",
   "Select All": "Wybierz Wszystko",
   "Select Mode": "Wybierz Tryb",
-  "Select a slot, then scan and choose a file": 'Wybierz slot ,a później wybierz plik",
+  "Select a slot, then scan and choose a file": "Wybierz slot ,a później wybierz plik",
   "Select security patch date for 2026": "Wybierz datę patcha zabezpieczeń w 2026r.",
   "Selected Date": "Wybrana Data",
   "Slot": "Slot",
