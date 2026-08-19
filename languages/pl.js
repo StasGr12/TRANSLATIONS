@@ -42,7 +42,7 @@ window.i18nDict.pl = {
   "Offline": "Offline",
   "Spoofed": "Spoofowane",
   "OTA": "OTA",
-  "90% Spoofed": "Oszukany w 90%ach",
+  "90% Spoofed": "Spoofowane w 90%ach",
   "Supreme": "Supreme",
   "Legacy": "Legacy",
   "Pixelify": "Pixelify",
@@ -151,7 +151,7 @@ window.i18nDict.pl = {
   "Keybox Status": "Status Keyboxa",
   "Valid": "Poprawny",
   "Invalid": "Niepoprawny",
-  "Expired": "Wygasły",
+  "Expired": "Wygasł",
   "Refresh Status": "Odśwież Status",
 
   /* PlayIntegrityBox */
