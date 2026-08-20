@@ -3,7 +3,7 @@ window.i18nDict.pl = {
   /* Main Page */
   "Hated By Many, Defeated By None": "Nielubiany Przez Wielu, Niepokonany Przez Nikogo ",
   "Integrity Hub": "Hub Integralności",
-  "Spoofing Hub": "Hub Oszukiwania",
+  "Spoofing Hub": "Hub Spoofowania",
   "Meow Hub": "Meow Hub",
   "Community & Support": "Społeczność i Wsparcie",
   "Integrity:": "Integralność Play:",
@@ -567,7 +567,7 @@ window.i18nDict.pl = {
   "Hides PIF-related hooks and detection traces on boot.": "Ukrywa hooki PIF oraz ślady które mogą prowadzić do wykrycia PIF przy uruchomieniu urządzenia.",
   "Hides custom ROM debug fingerprint traces from app detection.": "Ukrywa niestandardowe ślady debugowego odcisku palca custom roma tak aby aplikację nie były wstanie go wykryć.",
   "Hides custom recovery presence by spoofing recovery path.": "Ukrywa obecność niestandardowego recovery spoofując ścieżkę recovery.",
-  "Injects Hide My Applist configuration manually into HMA OOS.": "Wstrzykiwa konfigurację Hide My Applist do HMA OSS",
+  "Injects Hide My Applist configuration manually into HMA OSS.": "Wstrzykiwa konfigurację Hide My Applist do HMA OSS",
   "Manual LineageOS property spoofing with extended coverage.": "Manualne spoofowanie właściwości LineageOS z rozszerzonym pokryciem właściwości.",
   "No Redirect": "Brak Przekierowania",
   "Nuke Lineage": "Usuń Lineage",
@@ -648,10 +648,10 @@ window.i18nDict.pl = {
 
   /* General Questions */
   "What are the requirements?": "Jakie są wymagania?",
-  "Well, it depends on your ROM, Zygisk isn't needed if you're using Google pixel stock ROM. Anyways here are the recommended modules which works universally on all devices.": "To zależy od twojego ROM'a, Zygisk nie jest potrzebny jeżeli używasz orginalnego oprogramowania na telefonie Google Pixel. W każdym razie tutaj są rekomendowane moduły które działają na każdym urządzeniu.",
+  "Well, it depends on your ROM, Zygisk isn't needed if you're using Google pixel stock ROM. Anyways here are the recommended modules which works universally on all devices.": "To zależy od twojego ROM'a, Zygisk nie jest potrzebny jeśli używasz orginalnego oprogramowania na telefonie Google Pixel. W każdym razie tutaj są rekomendowane moduły które działają na każdym urządzeniu.",
   "You can download them by opening integrity box's webui": "Możesz je pobrać otwierając WebUI Integrity Box'a",
   "Module Settings > Integrity downloader": "Ustawienia Modułu > Pobieracz Integralności",
-  "Go back to modules tab & click on integrity box's action button. Modules will be downloaded into /sdcard/Downloads/IntegrityModules folder": "Wróć do zakładki modułów w twojim root menadżerze i kliknij guzik akcji integrity boxa'a. Moduły będą pobrane do folderu /sdcard/Pobrane/IntegrityModules",
+  "Go back to modules tab & click on integrity box's action button. Modules will be downloaded into /sdcard/Downloads/IntegrityModules folder": "Wróć do zakładki modułów w twoim menadżerze root'a i kliknij guzik akcji integrity boxa'a. Moduły będą pobrane do folderu /sdcard/Pobrane/IntegrityModules",
   "Why does my device pass Play Integrity but still fail ‘Device certification / license’ within apps?": "Dlaczego moje urządzenie przechodzi Test Integralności Play ale nadal 'Certyfikacja urządzenie / licencji' w aplikacjach wciąż nie działa?",
   "Passing Play Integrity doesn’t always mean device is certified.": "Przechodzenie Testu Integralności Play nie zawsze oznacza że urządzenie jest certyfikowane.",
   "Google Play certification/licensing checks may also require valid GMS certification, correct vendor‑partition signatures, valid attestation keys, and genuine vendor keybox.": "Sprawdzania certyfikacja Google Play / licencji mogą także wymagać prawidłowej certyfikacji GMS, prawidłowych podpisów partycji vendor, prawidłowych kluczy attestacji, oraz orginalnego keybox'a od producenta.",
